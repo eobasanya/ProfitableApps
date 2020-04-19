@@ -1,2 +1,2 @@
 # ProfitableApps
-An Analysis on What Makes A Profitable Apps 
+An Analysis on What Makes A Profitable App
