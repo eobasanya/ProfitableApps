@@ -7,7 +7,7 @@ Skills from this project include:
 #Step 1: Import Data
 In the first step of this project we look to import the data for analysis. Both Google Play Store data for Android and AppStore data for iOS.
 
-#Step 2A: Clean Data
+#Step 2A: Clean Data #
 In the first step of the project, we clean the data in this data set.
 I then explore the data using the explore function and determine incorrect or missing data and delete them.
 From the data source, it was determined that there was missing average reviews on line 1072, shifting all columns in that line to the left. It was deleted.
